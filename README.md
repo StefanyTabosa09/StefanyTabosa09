@@ -43,7 +43,7 @@
   
   ✨ Agenda Virtual Escolar
   
-  ✨ Idealizadora do projeto de startuo PetGram
+  ✨ Idealizadora do projeto de startup           PetGram
   
   ✨ Quiz Interativo sobre Programação
   
@@ -63,7 +63,7 @@ https://www.linkedin.com/in/stefany-t-33806a360
 
 ⭐ Objetivo
 
-Conquistar minha primeira oportunidade na área de tecnologia, aprender com grandes profissionais e crescer como desenvolvedora.
+Busco alcançar minha primeira oportunidade na área de tecnologia, aprender com grandes profissionais e crescer na área.
 
 
 ✨ Obrigada por visitar meu perfil!
